@@ -1,6 +1,6 @@
 package model;
 
-public class pojo {
+public class pojoModify {
 	public static void main(String[] args) {
 		System.out.println("hello world");
 	}

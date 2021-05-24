@@ -1,4 +1,4 @@
-package git.client;
+package model;
 
 public class application {
 	public static void main(String[] args) {
